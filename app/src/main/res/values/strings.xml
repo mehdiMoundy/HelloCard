@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloCard</string>
+    <string name="happy_birthday_text">Happy Birthday Bob!</string>
+    <string name="signature_text">- Mehdi</string>
 </resources>
